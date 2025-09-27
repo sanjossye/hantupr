@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data_hantu>
+    <hantu id="H001">
+        <nama>Kuntilanak</nama>
+        <asal>Indonesia (Umum)</asal>
+        <jenis>Hantu Wanita</jenis>
+        <kisah>Roh wanita hamil yang meninggal saat melahirkan, dikenal dengan tawa melengking dan pakaian putih.</kisah>
+    </hantu>
+
+    <hantu id="H002">
+        <nama>Pocong</nama>
+        <asal>Indonesia (Umum)</asal>
+        <jenis>Hantu Pria</jenis>
+        <kisah>Mayat yang terbungkus kain kafan dan melompat-lompat karena tali pengikatnya belum dilepas.</kisah>
+    </hantu>
+
+    <hantu id="H003">
+        <nama>Genderuwo</nama>
+        <asal>Jawa</asal>
+        <jenis>Jin/Raksasa</jenis>
+        <kisah>Makhluk besar, berbulu, dan menyerupai kera, sering menggoda atau menculik wanita.</kisah>
+    </hantu>
+
+    <hantu id="H004">
+        <nama>Sundel Bolong</nama>
+        <asal>Indonesia (Umum)</asal>
+        <jenis>Hantu Wanita</jenis>
+        <kisah>Roh wanita yang meninggal karena diperkosa, memiliki lubang besar di punggung yang ditutupi rambut panjang.</kisah>
+    </hantu>
+
+    <hantu id="H005">
+        <nama>Tuyul</nama>
+        <asal>Jawa</asal>
+        <jenis>Makhluk Kecil</jenis>
+        <kisah>Anak kecil botak yang digunakan untuk mencuri uang dengan cepat.</kisah>
+    </hantu>
+
+    <hantu id="H006">
+        <nama>Leak</nama>
+        <asal>Bali</asal>
+        <jenis>Penyihir</jenis>
+        <kisah>Manusia yang berubah menjadi makhluk menakutkan, sering berupa kepala dengan organ menggantung, berburu di malam hari.</kisah>
+    </hantu>
+
+    <hantu id="H007">
+        <nama>Wewe Gombel</nama>
+        <asal>Jawa Tengah</asal>
+        <jenis>Hantu Wanita</jenis>
+        <kisah>Hantu wanita yang menculik anak-anak terlantar atau yang berkeliaran saat senja.</kisah>
+    </hantu>
+
+    <hantu id="H008">
+        <nama>Suster Ngesot</nama>
+        <asal>Jakarta/Bandung</asal>
+        <jenis>Hantu Wanita</jenis>
+        <kisah>Roh suster yang meninggal tragis di rumah sakit dan bergerak dengan cara menyeret kakinya.</kisah>
+    </hantu>
+
+    <hantu id="H009">
+        <nama>Orang Bunian</nama>
+        <asal>Sumatra/Kalimantan</asal>
+        <jenis>Makhluk Halus</jenis>
+        <kisah>Suku gaib yang hidup berdampingan dengan manusia, sering menyesatkan orang di hutan.</kisah>
+    </hantu>
+
+    <hantu id="H010">
+        <nama>Jelangkung</nama>
+        <asal>Indonesia (Ritual)</asal>
+        <jenis>Medium Komunikasi</jenis>
+        <kisah>Permainan ritual memanggil roh menggunakan boneka batok kelapa dan pena.</kisah>
+    </hantu>
+    
+    <hantu id="H011">
+        <nama>Banshee</nama>
+        <asal>Irlandia</asal>
+        <jenis>Roh Wanita</jenis>
+        <kisah>Roh wanita yang meratap dan berteriak untuk memberitahukan kematian seseorang yang akan datang.</kisah>
+    </hantu>
+
+    <hantu id="H012">
+        <nama>Dracula</nama>
+        <asal>Rumania</asal>
+        <jenis>Vampir</jenis>
+        <kisah>Makhluk penghisap darah yang dapat berubah bentuk, sering dikaitkan dengan bangsawan Transylvania.</kisah>
+    </hantu>
+    
+    <hantu id="H013">
+        <nama>Yurei</nama>
+        <asal>Jepang</asal>
+        <jenis>Roh Pendendam</jenis>
+        <kisah>Hantu dalam budaya Jepang, sering berupa wanita berambut hitam panjang yang meninggal dengan dendam di hati.</kisah>
+    </hantu>
+
+    <hantu id="H014">
+        <nama>Poltergeist</nama>
+        <asal>Jerman/Internasional</asal>
+        <jenis>Roh Pengganggu</jenis>
+        <kisah>Hantu yang manifestasinya berupa suara, pergerakan benda fisik, dan gangguan bising.</kisah>
+    </hantu>
+
+    <hantu id="H015">
+        <nama>Bloody Mary</nama>
+        <asal>Amerika Serikat</asal>
+        <jenis>Roh Panggilan</jenis>
+        <kisah>Roh wanita yang bisa dipanggil dengan menyebut namanya tiga kali di depan cermin dalam gelap.</kisah>
+    </hantu>
+
+    <hantu id="H016">
+        <nama>Wendigo</nama>
+        <asal>Amerika Utara (Suku Algonquin)</asal>
+        <jenis>Makhluk Mitos</jenis>
+        <kisah>Roh kanibal ganas yang terkait dengan kelaparan dan musim dingin, digambarkan sebagai raksasa kurus.</kisah>
+    </hantu>
+
+    <hantu id="H017">
+        <nama>La Llorona</nama>
+        <asal>Meksiko/Amerika Latin</asal>
+        <jenis>Roh Wanita</jenis>
+        <kisah>Roh wanita yang menangis mencari anak-anaknya yang ia tenggelamkan di sungai.</kisah>
+    </hantu>
+
+    <hantu id="H018">
+        <nama>Tengu</nama>
+        <asal>Jepang</asal>
+        <jenis>Yōkai/Dewa</jenis>
+        <kisah>Makhluk bertubuh manusia dengan sayap dan hidung panjang, dikenal sebagai roh gunung yang kadang jahat, kadang pelindung.</kisah>
+    </hantu>
+
+    <hantu id="H019">
+        <nama>Gargoyle</nama>
+        <asal>Eropa (Gotik)</asal>
+        <jenis>Monster Pelindung</jenis>
+        <kisah>Patung-patung fantastis di gereja katedral yang dipercaya dapat hidup dan berfungsi sebagai pelindung dari roh jahat.</kisah>
+    </hantu>
+
+    <hantu id="H020">
+        <nama>Phantom</nama>
+        <asal>Internasional</asal>
+        <jenis>Hantu Umum</jenis>
+        <kisah>Istilah umum untuk hantu yang terlihat, sering digambarkan sebagai bayangan samar atau sosok transparan.</kisah>
+    </hantu>
+
+</data_hantu>
